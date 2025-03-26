@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+
+*/
+/* 
+    Created on : 12 de fev. de 2025, 15:03:57
+    Author     : 2DT
+*/
+
+*{
+    margin:0 auto;
+    
+}
+header {
+    background-color: blue;
+    width: 90%;
+    padding: 10px;
+    align-items: center;
+    display:flex;
+    
+}
+
+nav {
+    width: 90%;
+    background-color: #99ffff;
+    padding: 10px;
+    align-items: center;
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+iframe{
+    border: 0px;
+    width: 100%;
+    height: 300px;
+}
+
